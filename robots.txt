@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://exploring-solver.github.io/resources-d0jfmi/sitemap.xml
